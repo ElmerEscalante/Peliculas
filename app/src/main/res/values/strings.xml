@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+
+    <string name="peli1">Spiderman</string>
+    <string name="peli2">Dr Strange</string>
+    <string name="peli3">The Batman</string>
+    <string name="peli4">Shang-Chi</string>
+    <string name="peli5">Jackass</string>
+    <string name="peli6">El exorcismo de dios</string>
+
+    <string name="peli1_sinop">Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura. Peter decide pedirle ayuda al Doctor Extraño para recuperar su vida. Pero algo sale mal y provoca una fractura en el multiverso.</string>
+    <string name="peli2_sinop">Continúan las aventuras del Dr. Stephen Strange y sus superpoderes en la secuela de Marvel "Dr. Strange".</string>
+    <string name="peli3_sinop">En su segundo año luchando contra el crimen, Batman explora la corrupción existente en la ciudad de Gotham y el vínculo de esta con su propia familia. Además, entrará en conflicto con un asesino en serie conocido como "el Acertijo".</string>
+    <string name="peli4_sinop">El maestro de artes marciales Shang-Chi se enfrenta al pasado que creía haber dejado atrás cuando se ve envuelto en la red de la misteriosa organización de los Diez Anillos.</string>
+    <string name="peli5_sinop">Después de diez años, la tripulación de Jackass está de regreso para su cruzada final. Johnny Knoxville, Steve-O y el resto de la pandilla regresan para otra ronda de divertidas, salvajemente absurdas y, a menudo, peligrosas demostraciones.</string>
+    <string name="peli6_sinop">El padre Peter Williams, un exorcista estadounidense, es poseído por el demonio que intentaba expulsar de una joven y por el que se ve obligado, contra su voluntad, a cometer el más terrible sacrilegio.</string>
+</resources>
