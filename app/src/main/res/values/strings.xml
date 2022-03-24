@@ -14,4 +14,18 @@
     <string name="peli4_sinop">El maestro de artes marciales Shang-Chi se enfrenta al pasado que creía haber dejado atrás cuando se ve envuelto en la red de la misteriosa organización de los Diez Anillos.</string>
     <string name="peli5_sinop">Después de diez años, la tripulación de Jackass está de regreso para su cruzada final. Johnny Knoxville, Steve-O y el resto de la pandilla regresan para otra ronda de divertidas, salvajemente absurdas y, a menudo, peligrosas demostraciones.</string>
     <string name="peli6_sinop">El padre Peter Williams, un exorcista estadounidense, es poseído por el demonio que intentaba expulsar de una joven y por el que se ve obligado, contra su voluntad, a cometer el más terrible sacrilegio.</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Peliculas</string>
+    <string name="menu_gallery">Series</string>
+    <string name="menu_slideshow">Favoritos</string>
+    <string name="menu_tools">Ajustes</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Send</string>
 </resources>

@@ -1,6 +1,7 @@
 package escalante.elmer.peliculas
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -31,6 +32,16 @@ class AdaptadorMovies: BaseAdapter {
 
         iv_img.setImageResource(pelicula.img)
         tv_nombre.setText(pelicula.nombre)
+
+        vista.setOnClickListener{
+            val intent: Intent = Intent(context, PeliculaActivity::class.java)
+
+            intent.putExtra("nombre", pelicula.nombre)
+            intent.putExtra("sinopsis", pelicula.sinopsis)
+            intent.putExtra("img", pelicula.img)
+
+            context.startActivity(intent)
+        }
 
         return vista
     }
